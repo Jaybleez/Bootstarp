@@ -1,0 +1,67 @@
+.header{
+    margin-left: 450px;
+}
+header{
+    display: flex;
+    margin-top: 2%; 
+    border-bottom: 1px solid black;
+    padding-bottom: 8px;
+}
+nav a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: red;
+}
+button{
+    background-color:orangered;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+}
+button:hover{
+    background-color:#e03131;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+
+}
+p{ 
+    text-align: center;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a :hover{
+    background-color: #e03131;
+
+}
+ .Multi{
+    margin-left:250px;
+     
+}
+
+.test{
+    margin-right:170px;
+    font-size: 20px;
+
+}
+.h2 :hover{
+    background-color: red; 
+}
+
+
+
+
+
+
+

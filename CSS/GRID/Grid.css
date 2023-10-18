@@ -1,0 +1,20 @@
+.grid-container{
+    display: grid;
+    width: 100%;
+    background-color: aqua;
+    grid-template-columns:100px 1fr;
+    grid-row: 300px 400px;
+    place-content: center;
+
+}
+.grid-item{
+    border: 1px solid black ;
+}
+
+
+
+
+
+
+
+
